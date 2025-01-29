@@ -1,6 +1,8 @@
  <#
 .SYNOPSIS
-    This PowerShell script Configure the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> Windows PowerShell >> 'Turn on PowerShell Script Block Logging' to 'Enabled'..NOTES
+This powershell script block logging must be enabled on Windows 10.
+
+    .NOTES
     Author          : Vincent Murphy
     LinkedIn        : linkedin.com/in/vincentmurphy226
     GitHub          : github.com/vmurphy226
